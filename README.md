@@ -1,5 +1,10 @@
 # Halstack Client for JavaScript
 
+![issues](https://img.shields.io/github/issues/dxc-technology/dxc-halstack-client)
+![forks](https://img.shields.io/github/forks/dxc-technology/dxc-halstack-client)
+![stars](https://img.shields.io/github/stars/dxc-technology/dxc-halstack-client)
+
+
 Halstack Client for JavaScript enables developers to easily work with hypermedia-based APIs in a declarative manner. It offers a set of functionalities to facilitate the navigation between hypermedia resources and get access to their properties dynamically, based on the HAL and JSON Hyperschema specifications.
 
 This SDK is released as a client-agnostic library that can be used both in browser applications (such as Vanilla JS, React or Angular applications) or backend applications (node.js applications or AWS Lambdas).
